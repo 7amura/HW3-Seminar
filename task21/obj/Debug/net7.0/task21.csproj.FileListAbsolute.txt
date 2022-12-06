@@ -1,0 +1,15 @@
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/3seminar/task21/bin/Debug/net7.0/task21
+/Users/daria/Desktop/3seminar/task21/bin/Debug/net7.0/task21.deps.json
+/Users/daria/Desktop/3seminar/task21/bin/Debug/net7.0/task21.runtimeconfig.json
+/Users/daria/Desktop/3seminar/task21/bin/Debug/net7.0/task21.dll
+/Users/daria/Desktop/3seminar/task21/bin/Debug/net7.0/task21.pdb
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.dll
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/refint/task21.dll
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.pdb
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/task21.genruntimeconfig.cache
+/Users/daria/Desktop/3seminar/task21/obj/Debug/net7.0/ref/task21.dll

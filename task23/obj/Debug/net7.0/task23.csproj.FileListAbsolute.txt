@@ -1,0 +1,15 @@
+/Users/daria/Desktop/3seminar/task23/bin/Debug/net7.0/task23
+/Users/daria/Desktop/3seminar/task23/bin/Debug/net7.0/task23.deps.json
+/Users/daria/Desktop/3seminar/task23/bin/Debug/net7.0/task23.runtimeconfig.json
+/Users/daria/Desktop/3seminar/task23/bin/Debug/net7.0/task23.dll
+/Users/daria/Desktop/3seminar/task23/bin/Debug/net7.0/task23.pdb
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.csproj.AssemblyReference.cache
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.AssemblyInfoInputs.cache
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.AssemblyInfo.cs
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.dll
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/refint/task23.dll
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.pdb
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/task23.genruntimeconfig.cache
+/Users/daria/Desktop/3seminar/task23/obj/Debug/net7.0/ref/task23.dll
